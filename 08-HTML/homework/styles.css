@@ -1,0 +1,20 @@
+h1 {
+    color:brown;
+}
+
+img {
+    max-width: 400px;
+}
+
+#thirdDiv {
+    max-width: 500px;
+    max-height: 600px;
+    background-color: cornflowerblue;
+    padding: 50px;
+    border: 10px solid blue;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
